@@ -41,7 +41,7 @@ Currently, I am improving my GitHub projects, technical documentation, deploymen
 - NPM
 - VS Code
 - Insomnia
-- Docker Basic
+- Docker
 
 ---
 
