@@ -66,6 +66,7 @@ Currently, I am improving my GitHub projects, technical documentation, deploymen
 - Third-Party API Integration
 - Axios
 - Insomnia
+- Postman
 
 ### Authentication & Authorization
 - Laravel Sanctum
@@ -162,6 +163,8 @@ Currently, I am improving my GitHub projects, technical documentation, deploymen
 - DBeaver
 - Figma
 - Android Studio
+- Antigravity IDE
+- PGAdmin4
 
 ---
 
