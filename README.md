@@ -8,9 +8,24 @@ Currently, I am improving my GitHub projects, technical documentation, deploymen
 
 ---
 
+## Core Focus
+
+- Fullstack Web Development
+- Admin Dashboard Development
+- Business Information Systems
+- API Development
+- Database-Driven Applications
+- Technical Project Management
+- System Analysis & Documentation
+- AI-Assisted Development Workflow
+- DevOps & Cybersecurity Fundamentals
+
+---
+
 ## Hard Skills
 
 ### Frontend Development
+
 - HTML
 - CSS
 - JavaScript
@@ -21,23 +36,25 @@ Currently, I am improving my GitHub projects, technical documentation, deploymen
 - Tailwind CSS
 - Bootstrap
 - Vite
-- Responsive UI
+- Responsive Web Design
 - Admin Dashboard UI
+- Component-Based UI Development
 
 ### Backend Development
+
 - PHP
 - Laravel
 - Node.js
 - Express.js
 - Golang
-- REST API
-- JSON API
-- API Integration
-- Laravel Sanctum
-- JWT Authentication
-- Session-Based Authentication
+- Backend Application Development
+- Business Logic Development
+- Server-Side Application Structure
+- MVC-Based Application Development
+- Modular Backend Structure
 
 ### Mobile Development
+
 - Flutter
 - Dart
 - React Native
@@ -46,20 +63,24 @@ Currently, I am improving my GitHub projects, technical documentation, deploymen
 - Cross-Platform Mobile Development
 
 ### Database
+
 - PostgreSQL
 - MySQL
 - MongoDB
 - Mongoose
-- Database Migration
-- Database Seeder
+- Database Design
 - Relational Database
 - NoSQL Database
+- Database Migration
+- Database Seeder
+- Query Optimization Basics
 
 ### API & Integration
+
 - REST API
 - JSON API
 - HTTP Request/Response
-- API Authentication
+- API Integration
 - API Documentation
 - API Testing
 - Webhook Fundamentals
@@ -69,16 +90,19 @@ Currently, I am improving my GitHub projects, technical documentation, deploymen
 - Postman
 
 ### Authentication & Authorization
+
 - Laravel Sanctum
 - JWT Authentication
 - Session-Based Authentication
 - Role-Based Access Control
+- Permission-Based Access
 - Middleware
 - Protected Routes
-- Permission-Based Access
 - Basic OAuth Concepts
+- Authentication Flow Design
 
 ### DevOps & Deployment
+
 - Git
 - GitHub
 - GitHub Actions
@@ -94,6 +118,7 @@ Currently, I am improving my GitHub projects, technical documentation, deploymen
 - Application Monitoring Basics
 
 ### Security & Pentesting Fundamentals
+
 - OWASP Top 10
 - Web Application Security Basics
 - API Security Basics
@@ -112,38 +137,43 @@ Currently, I am improving my GitHub projects, technical documentation, deploymen
 
 ## Technical Practices
 
-- MVC Architecture
-- Modular Application Structure
-- Business Logic Implementation
-- Database Design
-- Relational Data Modeling
-- Query Optimization Basics
-- REST API Design
-- API Documentation
 - Requirement Analysis
 - System Analysis
 - Technical Documentation
+- Project Documentation
+- Database Design
+- Relational Data Modeling
+- REST API Design
+- API Documentation
+- MVC Architecture
+- Modular Application Structure
+- Business Logic Implementation
 - Role-Based System Design
 - Admin Dashboard Development
 - Business Process Mapping
 - Git Branching Workflow
 - Local Development Workflow
 - Debugging and Troubleshooting
+- Deployment Preparation
+- Basic Security Review
 
 ---
 
 ## AI Tools & Workflow
 
 ### Research & Planning
+
 - ChatGPT
 - Claude
 
 ### Coding Assistance
+
 - OpenAI Codex
 - Cursor
 - Claude Code
 
 ### UI/UX Assistance
+
 - Stitch AI
 - Claude Design
 
@@ -152,19 +182,20 @@ Currently, I am improving my GitHub projects, technical documentation, deploymen
 ## Development Tools
 
 - VS Code
+- Antigravity IDE
 - GitHub
 - Composer
 - NPM
 - PNPM
 - Insomnia
+- Postman
 - Docker Desktop
+- DBeaver
+- PGAdmin4
 - PostgreSQL Tools
 - MongoDB Atlas
-- DBeaver
 - Figma
 - Android Studio
-- Antigravity IDE
-- PGAdmin4
 
 ---
 
@@ -185,62 +216,81 @@ Currently, I am improving my GitHub projects, technical documentation, deploymen
 - Adaptability
 - Attention to Detail
 - Client Requirement Understanding
+- Ownership Mindset
 
 ---
 
 ## Featured Projects
 
 ### Employee Compensation Decision Support System
+
 Web-based decision support system for employee KPI evaluation, AHP weighting, peer assessment, leaderboard, salary increase recommendation, and bonus recommendation.
 
-Tech Stack: Laravel, PHP, PostgreSQL, Blade, Vite, Tailwind CSS, Bootstrap.
+**Tech Stack:** Laravel, PHP, PostgreSQL, Blade, Vite, Tailwind CSS, Bootstrap.
 
-Repository: [employee-compensation-decision-support-system](https://github.com/raihanachmadsuhadadev/employee-compensation-decision-support-system)
+**Repository:** [employee-compensation-decision-support-system](https://github.com/raihanachmadsuhadadev/employee-compensation-decision-support-system)
 
 ---
 
 ### Inventory Control System
+
 Web-based inventory control system for managing products, suppliers, stock transactions, stock monitoring, purchase recommendations, reports, and Excel import.
 
-Tech Stack: Laravel API, React, Vite, PostgreSQL, Laravel Sanctum.
+**Tech Stack:** Laravel API, React, Vite, PostgreSQL, Laravel Sanctum.
 
-Repository: [inventory-control-system](https://github.com/raihanachmadsuhadadev/inventory-control-system)
+**Repository:** [inventory-control-system](https://github.com/raihanachmadsuhadadev/inventory-control-system)
 
 ---
 
 ### Workshop Insight
+
 Web-based workshop management system for service transactions, spare parts, stock, reports, transaction pattern analysis, and service package recommendations.
 
-Tech Stack: Laravel API, Next.js, TypeScript, PostgreSQL, Flask, Python.
+**Tech Stack:** Laravel API, Next.js, TypeScript, PostgreSQL, Flask, Python.
 
-Repository: [workshop-insight](https://github.com/raihanachmadsuhadadev/workshop-insight)
+**Repository:** [workshop-insight](https://github.com/raihanachmadsuhadadev/workshop-insight)
 
 ---
 
 ### Cake Shop POS System
+
 Web-based POS and pre-order system for cake shop products, orders, payment proof upload, ingredient stock, FIFO usage, production queue, and reports.
 
-Tech Stack: Laravel API, Next.js, TypeScript, PostgreSQL, Tailwind CSS.
+**Tech Stack:** Laravel API, Next.js, TypeScript, PostgreSQL, Tailwind CSS.
 
-Repository: [cake-shop-pos-system](https://github.com/raihanachmadsuhadadev/cake-shop-pos-system)
+**Repository:** [cake-shop-pos-system](https://github.com/raihanachmadsuhadadev/cake-shop-pos-system)
 
 ---
 
 ### Public Service Report Classification System
+
 Web-based public service report classification system with citizen report submission, admin management, status tracking, and SVM-based priority recommendation.
 
-Tech Stack: Laravel API, Next.js, TypeScript, PostgreSQL, Flask, Python, scikit-learn.
+**Tech Stack:** Laravel API, Next.js, TypeScript, PostgreSQL, Flask, Python, scikit-learn.
 
-Repository: [public-service-report-classification-system](https://github.com/raihanachmadsuhadadev/public-service-report-classification-system)
+**Repository:** [public-service-report-classification-system](https://github.com/raihanachmadsuhadadev/public-service-report-classification-system)
 
 ---
 
 ### Grocery Delivery Apps
+
 Grocery delivery web application with customer app, admin panel, Express.js REST API, MongoDB, cart, checkout, orders, and product management.
 
-Tech Stack: React, Vite, Node.js, Express.js, MongoDB, Mongoose.
+**Tech Stack:** React, Vite, Node.js, Express.js, MongoDB, Mongoose.
 
-Repository: [grocery-delivery-apps](https://github.com/raihanachmadsuhadadev/grocery-delivery-apps)
+**Repository:** [grocery-delivery-apps](https://github.com/raihanachmadsuhadadev/grocery-delivery-apps)
+
+---
+
+## Additional Projects
+
+### HARZNET Company Profile
+
+Company profile website for HARZNET built with Next.js, focused on presenting business information, services, coverage, contact, and brand identity.
+
+**Tech Stack:** Next.js, React.
+
+**Repository:** [harznet-company-profile](https://github.com/raihanachmadsuhadadev/harznet-company-profile)
 
 ---
 
@@ -261,11 +311,12 @@ Repository: [grocery-delivery-apps](https://github.com/raihanachmadsuhadadev/gro
 
 ---
 
-## Career Focus
+## Career Direction
 
 I am currently focused on growing as a Fullstack Developer and Project Manager with strengths in system analysis, project documentation, business application development, and technical planning.
 
 Main interests:
+
 - Web Application Development
 - Mobile Application Development
 - Admin Dashboard
