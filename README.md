@@ -8,7 +8,7 @@ I also focus on project documentation, requirement breakdown, system analysis, t
 
 ## Portfolio
 
-- Portfolio Website: [LUMENIX Portfolio](https://raihan-portfolio-website-eight.vercel.app/)
+- Portfolio Website: [Ravion Portfolio](https://raihan-portfolio-website-eight.vercel.app/)
 - GitHub: [raihanachmadsuhadadev](https://github.com/raihanachmadsuhadadev)
 - LinkedIn: [Raihan Achmad Suhada](https://www.linkedin.com/in/raihan-a-suhada)
 
@@ -306,15 +306,25 @@ Grocery delivery web application with customer app, admin panel, Express.js REST
 
 ---
 
+### HARZNET Company Profile
+
+Company profile website for HARZNET built with Next.js, focused on presenting business information, internet services, service coverage, contact access, and brand identity through a modern responsive public website.
+
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS.
+
+**Repository:** [harznet-company-profile](https://github.com/raihanachmadsuhadadev/harznet-company-profile)
+
+---
+
 ## Portfolio Website
 
-### LUMENIX Portfolio Website
+### Ravion Portfolio Website
 
-Personal portfolio website under the LUMENIX identity, focused on presenting my profile, skills, experience, certificates, projects, and contact information.
+Personal portfolio website under the Ravion identity, focused on presenting my profile, skills, experience, certificates, projects, and contact information.
 
 **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Framer Motion, React Icons.
 
-**Live Website:** [LUMENIX Portfolio](https://raihan-portfolio-website-eight.vercel.app/)
+**Live Website:** [Ravion Portfolio](https://raihan-portfolio-website-eight.vercel.app/)
 
 **Repository:** [raihan-portfolio-website](https://github.com/raihanachmadsuhadadev/raihan-portfolio-website)
 
@@ -360,18 +370,6 @@ I also build mini projects to strengthen and demonstrate practical skills across
 
 ---
 
-## Additional Project
-
-### HARZNET Company Profile
-
-Company profile website for HARZNET built with Next.js, focused on presenting business information, services, coverage, contact, and brand identity.
-
-**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS.
-
-**Repository:** [harznet-company-profile](https://github.com/raihanachmadsuhadadev/harznet-company-profile)
-
----
-
 ## What I'm Currently Improving
 
 - Fullstack application development
@@ -414,4 +412,4 @@ Main interests:
 
 - GitHub: [raihanachmadsuhadadev](https://github.com/raihanachmadsuhadadev)
 - LinkedIn: [Raihan Achmad Suhada](https://www.linkedin.com/in/raihan-a-suhada)
-- Portfolio: [LUMENIX Portfolio](https://raihan-portfolio-website-eight.vercel.app/)
+- Portfolio: [Ravion Portfolio](https://raihan-portfolio-website-eight.vercel.app/)
