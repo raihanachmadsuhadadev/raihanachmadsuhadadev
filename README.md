@@ -1,20 +1,28 @@
 # Hi, I'm Raihan Achmad Suhada 👋
 
-I am a Fullstack Developer and Project Manager focused on building web applications, admin dashboards, APIs, database-driven systems, and business applications.
+I am a **Fullstack Developer** and **Project Manager** focused on building web applications, admin dashboards, APIs, database-driven systems, business applications, and practical digital products.
 
-I mainly work with Laravel, Next.js, TypeScript, PostgreSQL, MySQL, MongoDB, Node.js, Express.js, and React. I also have experience in project documentation, requirement breakdown, system analysis, technical planning, and basic IT/network operations.
+I work with Laravel, Next.js, TypeScript, React, Node.js, Express.js, PostgreSQL, MySQL, MongoDB, Python, Flask, scikit-learn, Go, Flutter, Dart, Kotlin, and React Native.
 
-Currently, I am improving my GitHub projects, technical documentation, deployment workflow, fullstack development skills, and expanding my knowledge into mobile development, AI-assisted development, DevOps, and cybersecurity fundamentals.
+I also focus on project documentation, requirement breakdown, system analysis, technical planning, GitHub portfolio development, AI-assisted workflows, mobile development fundamentals, DevOps fundamentals, and cybersecurity fundamentals.
+
+## Portfolio
+
+- Portfolio Website: [LUMENIX Portfolio](https://raihan-portfolio-website-eight.vercel.app/)
+- GitHub: [raihanachmadsuhadadev](https://github.com/raihanachmadsuhadadev)
+- LinkedIn: [Raihan Achmad Suhada](https://www.linkedin.com/in/raihan-a-suhada)
 
 ---
 
-## Core Focus
+## Professional Focus
 
 - Fullstack Web Development
+- Backend API Development
 - Admin Dashboard Development
 - Business Information Systems
-- API Development
 - Database-Driven Applications
+- Mobile Development Fundamentals
+- AI / Machine Learning Integration
 - Technical Project Management
 - System Analysis & Documentation
 - AI-Assisted Development Workflow
@@ -46,6 +54,8 @@ Currently, I am improving my GitHub projects, technical documentation, deploymen
 - Laravel
 - Node.js
 - Express.js
+- Python
+- Flask
 - Golang
 - Backend Application Development
 - Business Logic Development
@@ -100,6 +110,20 @@ Currently, I am improving my GitHub projects, technical documentation, deploymen
 - Protected Routes
 - Basic OAuth Concepts
 - Authentication Flow Design
+
+### AI & Machine Learning Fundamentals
+
+- Python
+- Flask
+- scikit-learn
+- TF-IDF
+- Linear Regression
+- Logistic Regression
+- Support Vector Machine
+- Random Forest
+- Model Evaluation
+- Model Integration with Web Applications
+- AI API Integration
 
 ### DevOps & Deployment
 
@@ -234,7 +258,7 @@ Web-based decision support system for employee KPI evaluation, AHP weighting, pe
 
 ### Inventory Control System
 
-Web-based inventory control system for managing products, suppliers, stock transactions, stock monitoring, purchase recommendations, reports, and Excel import.
+Web-based inventory control system for managing products, suppliers, stock transactions, stock monitoring, EOQ and ROP calculations, purchase recommendations, reports, and Excel import.
 
 **Tech Stack:** Laravel API, React, Vite, PostgreSQL, Laravel Sanctum.
 
@@ -282,13 +306,67 @@ Grocery delivery web application with customer app, admin panel, Express.js REST
 
 ---
 
-## Additional Projects
+## Portfolio Website
+
+### LUMENIX Portfolio Website
+
+Personal portfolio website under the LUMENIX identity, focused on presenting my profile, skills, experience, certificates, projects, and contact information.
+
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Framer Motion, React Icons.
+
+**Live Website:** [LUMENIX Portfolio](https://raihan-portfolio-website-eight.vercel.app/)
+
+**Repository:** [raihan-portfolio-website](https://github.com/raihanachmadsuhadadev/raihan-portfolio-website)
+
+---
+
+## Mini Project Portfolio
+
+I also build mini projects to strengthen and demonstrate practical skills across multiple languages, frameworks, and development areas.
+
+### Frontend & Web Fundamentals
+
+- [simple-expense-tracker-js](https://github.com/raihanachmadsuhadadev/simple-expense-tracker-js)
+- [task-board-typescript](https://github.com/raihanachmadsuhadadev/task-board-typescript)
+- [product-catalog-react](https://github.com/raihanachmadsuhadadev/product-catalog-react)
+- [knowledge-journal-nextjs](https://github.com/raihanachmadsuhadadev/knowledge-journal-nextjs)
+- [stockroom-inventory-vue](https://github.com/raihanachmadsuhadadev/stockroom-inventory-vue)
+
+### Backend & API
+
+- [contact-manager-php](https://github.com/raihanachmadsuhadadev/contact-manager-php)
+- [data-cleaner-python](https://github.com/raihanachmadsuhadadev/data-cleaner-python)
+- [simple-url-shortener-go](https://github.com/raihanachmadsuhadadev/simple-url-shortener-go)
+- [task-management-api-laravel](https://github.com/raihanachmadsuhadadev/task-management-api-laravel)
+- [notes-rest-api-express](https://github.com/raihanachmadsuhadadev/notes-rest-api-express)
+- [expense-tracker-api-flask](https://github.com/raihanachmadsuhadadev/expense-tracker-api-flask)
+- [subscription-api-go-postgresql](https://github.com/raihanachmadsuhadadev/subscription-api-go-postgresql)
+- [realtime-helpdesk-node-websocket](https://github.com/raihanachmadsuhadadev/realtime-helpdesk-node-websocket)
+
+### Mobile Development
+
+- [console-habit-tracker-dart](https://github.com/raihanachmadsuhadadev/console-habit-tracker-dart)
+- [simple-notes-kotlin](https://github.com/raihanachmadsuhadadev/simple-notes-kotlin)
+- [pocket-notes-flutter](https://github.com/raihanachmadsuhadadev/pocket-notes-flutter)
+- [focus-queue-react-native](https://github.com/raihanachmadsuhadadev/focus-queue-react-native)
+- [mobile-expense-flutter-api](https://github.com/raihanachmadsuhadadev/mobile-expense-flutter-api)
+
+### AI / Machine Learning
+
+- [student-score-prediction-sklearn](https://github.com/raihanachmadsuhadadev/student-score-prediction-sklearn)
+- [report-priority-classifier-api](https://github.com/raihanachmadsuhadadev/report-priority-classifier-api)
+- [machine-maintenance-prediction-dashboard](https://github.com/raihanachmadsuhadadev/machine-maintenance-prediction-dashboard)
+- [ai-chat-assistant-nextjs](https://github.com/raihanachmadsuhadadev/ai-chat-assistant-nextjs)
+
+---
+
+## Additional Project
 
 ### HARZNET Company Profile
 
 Company profile website for HARZNET built with Next.js, focused on presenting business information, services, coverage, contact, and brand identity.
 
-**Tech Stack:** Next.js, React.
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS.
 
 **Repository:** [harznet-company-profile](https://github.com/raihanachmadsuhadadev/harznet-company-profile)
 
@@ -303,6 +381,7 @@ Company profile website for HARZNET built with Next.js, focused on presenting bu
 - GitHub project documentation
 - Mobile development fundamentals
 - AI-assisted development workflow
+- AI / ML integration
 - Deployment workflow
 - Docker and Linux fundamentals
 - DevOps fundamentals
@@ -313,17 +392,18 @@ Company profile website for HARZNET built with Next.js, focused on presenting bu
 
 ## Career Direction
 
-I am currently focused on growing as a Fullstack Developer and Project Manager with strengths in system analysis, project documentation, business application development, and technical planning.
+I am currently focused on growing as a Fullstack Developer and Project Manager with strengths in system analysis, project documentation, business application development, API development, database-driven systems, and technical planning.
 
 Main interests:
 
 - Web Application Development
 - Mobile Application Development
-- Admin Dashboard
-- Business Information System
+- Admin Dashboard Development
+- Business Information Systems
 - API Development
-- Database-Driven Application
+- Database-Driven Applications
 - AI-Assisted Development
+- AI / Machine Learning Integration
 - DevOps Fundamentals
 - Cybersecurity Fundamentals
 - Technical Project Management
@@ -334,3 +414,4 @@ Main interests:
 
 - GitHub: [raihanachmadsuhadadev](https://github.com/raihanachmadsuhadadev)
 - LinkedIn: [Raihan Achmad Suhada](https://www.linkedin.com/in/raihan-a-suhada)
+- Portfolio: [LUMENIX Portfolio](https://raihan-portfolio-website-eight.vercel.app/)
